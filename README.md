@@ -3,4 +3,4 @@
 # Amato
 Мои проекты
 
-[Мой первый сайт](https://amato2114.github.io/site_3/ "Мой 3 сайт")
+[Site 1](https://amato2114.github.io/site_3/ "Мой 3 сайт") - Первый сайт
